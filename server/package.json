@@ -1,0 +1,19 @@
+{
+  "name": "business-directory",
+  "version": "1.0.0",
+  "description": "A website that allows users look up information on businesses thereby providing exposure to businesses listed by their owner.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiloba23/Business-Directory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobiloba23/Business-Directory/issues"
+  },
+  "homepage": "https://github.com/tobiloba23/Business-Directory#readme"
+}
