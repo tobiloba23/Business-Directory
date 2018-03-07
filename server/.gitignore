@@ -1,0 +1,4 @@
+.env
+.npm/_logs
+.nyc_output
+mocha.env.js
